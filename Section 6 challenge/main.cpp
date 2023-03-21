@@ -26,10 +26,4 @@ int main() {
     cout << "==================================================\n";
     cout << "Total cost of service is $: " << total_cost_without_tax + total_tax << endl;
     cout << "Predicted prices are valid for " << validity_days << " days.\n";
-
-
-
-
-
-
 }
