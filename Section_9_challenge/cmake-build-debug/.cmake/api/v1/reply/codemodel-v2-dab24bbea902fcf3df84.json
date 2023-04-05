@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Section_9_challenge",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Section_9_challenge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Section_9_challenge-Debug-d03be8f354dd22acad22.json",
+					"name" : "Section_9_challenge",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ligas/OneDrive/Pulpit/Github/Beginning-C-Programming---From-Beginner-to-Beyond---/Section_9_challenge/cmake-build-debug",
+		"source" : "C:/Users/ligas/OneDrive/Pulpit/Github/Beginning-C-Programming---From-Beginner-to-Beyond---/Section_9_challenge"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
